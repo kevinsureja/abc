@@ -1,0 +1,4 @@
+export const CREATE_FAMILY= "CREATE_FAMILY";
+export const UPDATE_FAMILY="UPDATE_FAMILY";
+export const DELETE_FAMILY="DELETE_FAMILY";
+export const GET_FAMILY="GET_FAMILY";
